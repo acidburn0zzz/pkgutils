@@ -14,7 +14,7 @@ path = "src/bin/pkg.rs"
 [dependencies]
 clap = {version = "2.25", default-features = false}
 hyper-rustls = "0.6"
-libflate = "0.1.4"
+libflate = "0.1.25"
 liner = "0.1"
 pbr = { version = "1.0", git = "https://github.com/ids1024/pb", branch = "duration" }
 serde = "1.0"
