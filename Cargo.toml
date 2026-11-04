@@ -24,7 +24,7 @@ toml = "0.4"
 version-compare = "0.0.4"
 
 [dependencies.hyper]
-version = "0.10"
+version = "1.12"
 default-features = false
 
 [dependencies.octavo]
